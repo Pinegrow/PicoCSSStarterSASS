@@ -2,6 +2,10 @@
 
 Use this project as an example / starter for Pico CSS projects customized with SASS.
 
+## Overview
+
+[Watch the short video](https://youtu.be/uSzxye0lJoQ) to get started.
+
 ## Usage
 
 Add custom_pico.css to HTML files in the project.
